@@ -33,9 +33,6 @@ Node JS
 
 /*COMPONENTES PRINCIPALES DEL LENGUAJE
 Datos
-Funciones
+Funciones */
 
-
-
-
-*/
+console.log("Hola Mundo");
